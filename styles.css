@@ -1,0 +1,34 @@
+
+
+@import url("styles/cabecalho.css");
+@import url("styles/metricas.css");
+@import url("styles/header.css");
+@import url("styles/vagas.css");
+@import url("styles/vagasabertas.css");
+@import url("styles/depoimentos.css");
+@import url("styles/footer.css");
+
+:root{
+ --cinza:#667085;
+ --vermelho-principal:#8E2424;
+ --preto-logo:#3A404E;
+ --preto-principal:#101828;
+ --fonte-principal: 'Inter';
+ --branco:#FFFFFF;
+ --vermelho-background:#8E24240D;
+ --borda-informacoes:#EAECF0;
+ --vermelho-background:#C3191908;
+ --cinza-footer:#98A2B3;
+ --cinza-background:#F9FAFB;
+}
+* {
+  margin: 0;
+  padding: 0;
+}
+body{
+ 
+   font-family: var(--fonte-principal);
+  font-size: 16px;
+  font-weight: 500;
+}
+

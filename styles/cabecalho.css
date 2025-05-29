@@ -1,0 +1,35 @@
+.cabecalho{
+    display: grid;
+ 
+    text-align: center;
+    font-family: var(--fonte-principal);
+    margin-top: 96px;
+    margin-bottom: 96px;
+    gap:34px;
+   
+}
+
+.cabecalho__titulo{
+    
+    font-size: 16px;
+    font-weight: 600;
+    color: var(--vermelho-principal);
+}
+.cabecalho__titulo-secundario{
+    font-size: 48px;
+    font-weight: 600;
+    color: var(--preto-principal);
+    padding-bottom: 1em;
+  
+
+}
+.cabecalho__texto{
+    font-size: 20px;
+    font-weight: 400;
+    color: var(--cinza);
+    padding: 0 28em;
+    line-height: 1.5em;
+   
+  
+
+}

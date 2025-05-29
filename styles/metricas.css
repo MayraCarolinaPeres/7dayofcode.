@@ -1,0 +1,40 @@
+
+.metricas__titulo{
+    font-family: var(--fonte-principal);
+    font-size: 18px;
+    font-weight: 500;
+    color: var(--preto-principal);  
+    margin-top: 1.5em;
+
+}
+.metricas__texto{
+    font-size: 16px;
+    font-weight: 400;
+    color: var(--cinza);
+   
+  
+
+}
+.metricas__container-1,
+ .metricas__container-2, 
+ .metricas__container-3, 
+ .metricas__container-4{
+
+display: block;
+float:left;
+width: 15em;
+margin-left:  9em;
+margin-right: 5em;
+ line-height: 1.5em;
+ margin-bottom: 10em;
+ margin-top: 3em;
+ gap:64px;
+
+ 
+
+ 
+
+
+  
+}
+

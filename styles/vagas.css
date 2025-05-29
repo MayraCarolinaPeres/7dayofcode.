@@ -1,0 +1,40 @@
+.vagas__container{
+
+   position:static;
+    display: grid;
+    justify-items: center;
+   font-family: var(--fonte-principal);
+   gap:25px;
+   width: 100%;
+
+
+}
+.vagas__titulo{
+    font-size: 14px;
+    font-weight: 500;
+    color:var(--vermelho-principal);
+    background-color: var(--vermelho-background);
+    border-radius: 16px ;
+    padding-top: 4px;
+    padding-right: 12px;
+    padding-bottom: 6px;
+    padding-left: 12px;
+    
+ margin-top:5em;
+ text-align: center;
+ align-items: center;
+
+   
+}
+.vagas__titulo-secundario{
+    font-size: 36px;
+    font-weight: 600;
+    color: var(--preto-principal);
+
+}
+.vagas__texto{
+    font-size: 20px;
+    font-weight: 400;
+    color: var(--cinza);
+    margin-bottom: 3em;
+}

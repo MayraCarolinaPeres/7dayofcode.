@@ -1,0 +1,48 @@
+.depoimentos__container{
+    display: block;
+    text-align: center;
+    background-color: var(--vermelho-background);
+    border-radius: 16px;
+    padding: 64px;
+    gap:32px;
+ margin-left: 10em;
+ margin-right: 10em;
+ margin-bottom: 8em;
+  
+  
+    
+}
+.depoimentos__titulo{
+    font-size: 14px;
+    font-weight: 600;
+    color: var(--vermelho-principal);
+    padding: 1em ;
+}
+.depoimentos__texto{
+    font-size: 36px;
+    font-weight: 500;
+    color: var(--preto-principal);
+    width: 30em;
+    padding: 1em ;
+    margin-left: 4em;
+  
+}
+.depoimentos__titulo-2{
+    font-size: 16px;
+    font-weight: 500;
+    color: var(--preto-principal);
+   padding: 0.5em ;
+
+  
+}
+.depoimentos__texto-2{
+    font-size: 14px;
+    font-weight: 400;
+    color: var(--cinza);
+    padding: 0.5em ;
+
+
+}
+.depoimentos__imagem{
+    margin: 0 auto;
+}
