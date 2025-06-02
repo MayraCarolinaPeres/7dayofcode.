@@ -47,9 +47,19 @@
     font-weight: 500;
     color:var(--cinza);
     padding: 6em 1em ;
- 
-    
-
    
    
+}
+@media screen and (max-width: 450px){
+    .vaga__container{
+        margin: 2em;
+        justify-content: space-between;
+    }
+    .vaga{
+        width: 320px;
+        height: 100px;
+    }
+    .informacoes{
+        padding: 4em 1em;
+    }
 }

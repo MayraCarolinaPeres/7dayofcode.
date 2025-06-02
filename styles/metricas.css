@@ -4,13 +4,14 @@
     font-size: 18px;
     font-weight: 500;
     color: var(--preto-principal);  
-    margin-top: 1.5em;
+    margin-top: 2em;
 
 }
 .metricas__texto{
     font-size: 16px;
     font-weight: 400;
     color: var(--cinza);
+    margin: 1em auto;
    
   
 
@@ -20,21 +21,29 @@
  .metricas__container-3, 
  .metricas__container-4{
 
-display: block;
-float:left;
-width: 15em;
-margin-left:  9em;
-margin-right: 5em;
+display:block;
+flex-direction: column;
+width: 18%;
+float: left;
+align-items:center;
  line-height: 1.5em;
- margin-bottom: 10em;
- margin-top: 3em;
- gap:64px;
-
- 
-
- 
+padding-left: 5em;
 
 
   
 }
 
+@media screen and (max-width: 450px){
+    .metricas__container-1,
+ .metricas__container-2, 
+ .metricas__container-3, 
+ .metricas__container-4{
+
+    width: 150px;
+   padding: 1em;
+  
+  
+
+ }
+
+}

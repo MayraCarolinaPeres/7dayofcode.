@@ -5,8 +5,8 @@
     border-radius: 16px;
     padding: 64px;
     gap:32px;
- margin-left: 10em;
- margin-right: 10em;
+ margin-left: 5em;
+ margin-right: 5em;
  margin-bottom: 8em;
   
   
@@ -22,9 +22,9 @@
     font-size: 36px;
     font-weight: 500;
     color: var(--preto-principal);
-    width: 30em;
-    padding: 1em ;
-    margin-left: 4em;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    
   
 }
 .depoimentos__titulo-2{
@@ -45,4 +45,27 @@
 }
 .depoimentos__imagem{
     margin: 0 auto;
+}
+@media screen and (max-width: 450px){
+    .depoimentos__container{
+       
+    display: flex;
+    flex-direction: column;
+    margin: 1em;
+    padding: 10px;
+    width: 450px;
+    margin-left: 2em;
+        
+       
+    }
+    
+.depoimentos__texto{
+    font-size: 24px;
+}
+.depoimentos__texto-2{
+    padding: 0;
+}
+.depoimentos__titulo-2{
+    padding: 0;
+}
 }
