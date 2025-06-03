@@ -40,10 +40,23 @@ padding-left: 5em;
  .metricas__container-4{
 
     width: 150px;
-   padding: 1em;
-  
-  
+    padding: 1em;
+
+
+ }
+ }
+@media screen and (max-width: 1024px){
+      .metricas__container-1,
+ .metricas__container-2, 
+ .metricas__container-3, 
+ .metricas__container-4{
+
+    width: 150px;
+    padding: 1em;
+   
+   
 
  }
 
 }
+

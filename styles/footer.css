@@ -60,18 +60,33 @@
 }
 @media screen and (max-width: 450px){
  .rodape{
-  width: 650px;
+  width: 95%;
+ padding: 1em;
 
  }
  
   .rodape__titulo{
-    font-size: 24px;
+    font-size: 20px;
   }
   .rodape__texto{
     font-size: 16px;
   }
   .rodape__email{
-    width: 25%;
+    width: 35%;
     margin: 1em;
+     padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
   }
+  .rodape__botao{
+     padding-top: 10px;
+    padding-right: 15px;
+    padding-left: 15px;
+    padding-bottom: 10px;
+    font-size: 14px;
+}
+.rodape__texto-2{
+  font-size: 14px;
+}
 }
