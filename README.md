@@ -1,6 +1,6 @@
 # <h1> #7DaysOfCode</h1>
 
-## Projeto feito durante 7 dias com a Alura.
+## Desafio realizado em 7 dias com a Alura.
 
 
 
