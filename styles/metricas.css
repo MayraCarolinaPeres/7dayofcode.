@@ -39,10 +39,12 @@ padding-left: 5em;
  .metricas__container-3, 
  .metricas__container-4{
 
-    width: 150px;
+    width: 25%;
     padding: 1em;
 
-
+ }
+    .metricas__imagem{
+    width: 90%;
  }
  }
 @media screen and (max-width: 1024px){
