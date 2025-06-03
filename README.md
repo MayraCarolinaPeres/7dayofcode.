@@ -1,0 +1,23 @@
+# <h1> #7DaysOfCode</h1>
+
+## Projeto feito durante 7 dias com a Alura.
+
+
+
+
+![7dayofcode](https://github.com/user-attachments/assets/7b813cc9-1324-4658-a182-bd7ff719f775)
+
+
+# Ferramentas utilizadas:
+
+
+<li>HTML </li>
+
+<li>CSS </li>
+
+# Acesso ao projeto:
+
+
+# Linkedin:
+ http://www.linkedin.com/in/mayraperes
+
