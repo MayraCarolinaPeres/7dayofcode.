@@ -16,7 +16,7 @@
 <li>CSS </li>
 
 # Acesso ao projeto:
-
+https://7dayofcode-psi.vercel.app/
 
 # Linkedin:
  http://www.linkedin.com/in/mayraperes
